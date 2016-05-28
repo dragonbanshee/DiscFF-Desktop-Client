@@ -8,9 +8,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
-using SteamKit2.Unified;
-using SteamKit2.Unified.Internal;
 using System.Text.RegularExpressions;
 
 namespace DiscFFClient
